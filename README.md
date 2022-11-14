@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pushpak-98
 - 👀 I’m interested in Data Science Field.
-- 🌱 I’m currently learning Deep learning,NLP,My Sql and various types of algothrims.
+- 🌱 I’m currently learning Deep learning,My Sql and various types of algothrims.
 - 📫 How to reach me LinkedIn-linkedin.com\pushpakat1998
 
 <!---
