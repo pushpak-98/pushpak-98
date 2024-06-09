@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pushpak-98
+- 👋 Hi, I’m @pushpak Attarde
 - 👀 I’m interested in Data Science Field.
 - 🌱 I’m currently learning Deep learning,My Sql and various types of algothrims.
-- 📫 How to reach me LinkedIn-linkedin.com\pushpakat1998
+- 📫 How to reach me LinkedIn-https://www.linkedin.com/in/pushpakattarde/
 
 <!---
 pushpak-98/pushpak-98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
